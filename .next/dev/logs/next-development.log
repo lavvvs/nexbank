@@ -1,0 +1,27 @@
+[00:00:02.202] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:02.561] Server  LOG      ✓ Ready in 1850ms
+[00:00:08.769] Server  LOG      ○ Compiling / ...
+[00:00:22.513] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:38.255] Server  LOG      ○ Compiling /auth/sign-up/[[...rest]] ...
+[00:00:58.210] Server  LOG     ========================================
+[00:00:58.213] Server  LOG     🔍 CURRENT USER INFO:
+[00:00:58.216] Server  LOG     Clerk ID: "user_363dUb6nt5LQ2ao12duKV8sqK8c"
+[00:00:58.220] Server  LOG     Email: "lavanyakumar593@gmail.com"
+[00:00:58.227] Server  LOG     ========================================
+[00:00:59.278] Server  LOG     📊 DATABASE STATS:
+[00:00:59.285] Server  LOG     Total accounts in DB: 67
+[00:00:59.289] Server  LOG     YOUR accounts: 4
+[00:00:59.294] Server  LOG     Total transactions in DB: 515
+[00:00:59.300] Server  LOG     YOUR transactions: 24
+[00:00:59.549] Server  LOG     📝 SAMPLE DATA:
+[00:00:59.552] Server  LOG     Sample account userId: "user_2aBC123XYZ456def"
+[00:00:59.554] Server  LOG     Sample transaction userId: "user_363dUb6nt5LQ2ao12duKV8sqK8c"
+[00:00:59.562] Server  LOG     Sample transaction accountId: {}
+[00:00:59.566] Server  LOG     ========================================
+[00:01:00.181] Server  LOG     🔍 ORPHANED DATA CHECK:
+[00:01:00.184] Server  LOG       Orphaned transactions: 0
+[00:01:00.186] Server  LOG       Orphaned loans: 0
+[00:01:00.189] Server  LOG       Orphaned PAID EMIs without txn link: 0
+[00:01:00.194] Server  LOG       Accounts with wrong userId: 0
+[00:01:00.197] Server  LOG     ========================================
+[00:01:02.823] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
