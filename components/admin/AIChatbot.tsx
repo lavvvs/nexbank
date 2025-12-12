@@ -50,7 +50,7 @@ export default function AIChatbot() {
     setLoading(true);
 
     try {
-      const response = await fetch("http://localhost:8000/chat", {
+      const response = await fetch("/api/py/chat", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

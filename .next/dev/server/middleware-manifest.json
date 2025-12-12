@@ -3,9 +3,13 @@
   "middleware": {
     "/": {
       "files": [
-        "server/edge/chunks/_099422f2._.js",
+        "server/edge/chunks/_fc830e13._.js",
+        "server/edge/chunks/ba094_@clerk_shared_dist_runtime_0015fa82._.js",
+        "server/edge/chunks/543d6_@clerk_backend_dist_e3cdb787._.js",
+        "server/edge/chunks/9f905_@clerk_nextjs_dist_esm_642ffe02._.js",
+        "server/edge/chunks/16581_cookie_dist_index_bc7ca319.js",
         "server/edge/chunks/[root-of-the-server]__f2b15f93._.js",
-        "server/edge/chunks/turbopack-edge-wrapper_0c7a24cf.js"
+        "server/edge/chunks/turbopack-edge-wrapper_34d4542c.js"
       ],
       "name": "middleware",
       "page": "/",
@@ -24,9 +28,9 @@
       "env": {
         "__NEXT_BUILD_ID": "development",
         "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "hCS5l+asHEnxs8FKzUYiazZpKzxjfgL43ef5TMc16zM=",
-        "__NEXT_PREVIEW_MODE_ID": "d36a28b3406904b2b61a089c8ea106bf",
-        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "2f492f7089249db21a3f29e747e241d024e0f48663d7ffe1d719345699112a39",
-        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "5fb0e8bce191cdee7b13bc748a7a969e29041249091ab8886ed304ea9ee09da1"
+        "__NEXT_PREVIEW_MODE_ID": "cbee5aaa808b3eae437e4408f701d601",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "61923794b9f98f27c4d88bed4581303269db3ddd41af4b5a9e834a8def02f98b",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "d544c7476b6ce48bcc2f38ecacd3db412a1c1099a2418abdf0258603e17a5201"
       }
     }
   },
