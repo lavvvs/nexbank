@@ -1,6 +1,5 @@
 {
   "/(dashboard)/dashboard/accounts/page": "app/(dashboard)/dashboard/accounts/page.js",
-  "/(dashboard)/dashboard/deposit/confirm/page": "app/(dashboard)/dashboard/deposit/confirm/page.js",
   "/(dashboard)/dashboard/deposit/page": "app/(dashboard)/dashboard/deposit/page.js",
   "/(dashboard)/dashboard/deposit/return/page": "app/(dashboard)/dashboard/deposit/return/page.js",
   "/(dashboard)/dashboard/diagnostics/page": "app/(dashboard)/dashboard/diagnostics/page.js",

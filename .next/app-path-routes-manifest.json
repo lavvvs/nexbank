@@ -1,6 +1,5 @@
 {
   "/(dashboard)/dashboard/accounts/page": "/dashboard/accounts",
-  "/(dashboard)/dashboard/deposit/confirm/page": "/dashboard/deposit/confirm",
   "/(dashboard)/dashboard/deposit/page": "/dashboard/deposit",
   "/(dashboard)/dashboard/deposit/return/page": "/dashboard/deposit/return",
   "/(dashboard)/dashboard/diagnostics/page": "/dashboard/diagnostics",

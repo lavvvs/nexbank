@@ -269,12 +269,6 @@
       "namedRegex": "^/dashboard/deposit(?:/)?$"
     },
     {
-      "page": "/dashboard/deposit/confirm",
-      "regex": "^/dashboard/deposit/confirm(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/dashboard/deposit/confirm(?:/)?$"
-    },
-    {
       "page": "/dashboard/deposit/return",
       "regex": "^/dashboard/deposit/return(?:/)?$",
       "routeKeys": {},

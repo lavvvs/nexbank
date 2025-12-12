@@ -134,8 +134,4 @@ export const POST = async (req: NextRequest) => {
 };
 
 // IMPORTANT: Disable body parsing for Stripe webhooks
-export const config = {
-  api: {
-    bodyParser: false,
-  },
-};
+
